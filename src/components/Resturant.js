@@ -34,4 +34,4 @@ const Resturant = () => {
 }
 
 export default Resturant
- // for hot reloading problem paste     FAST_REFRESH=false   in a file .env
+ // for hot reloading problem paste     FAST_REFRESH=false   in a file .env thank you 
